@@ -1,2 +1,2 @@
 # cherrybox
-Python framework for structured, MVC-based SCADA project creation in Ignition.
+CherryBox is a comprehensive Python framework designed for building declarative and well-structured projects in Ignition SCADA. Embracing an MVC-based philosophy, CherryBox facilitates the creation of complete SCADA projects, promoting clear separation of concerns and modular development. This framework empowers developers to architect their applications with efficiency and scalability in mind.
